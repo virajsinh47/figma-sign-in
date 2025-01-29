@@ -1,0 +1,15 @@
+@media (max-width:800px) {
+    .main-container{
+        flex-direction: column;
+    }
+    .left-part{
+        margin-inline: auto;
+        width: 100vw;
+    }
+    .right-part{
+        width: 100vw;
+    }
+.right-container{
+    width: 70%;
+}
+}
